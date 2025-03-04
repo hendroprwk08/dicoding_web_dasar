@@ -39,6 +39,10 @@ aside {
     margin: 10px;
 }
 
+aside>img {
+    border-radius: 50%;
+}
+
 aside>h1 {
     color: #6A9C89;
     margin-bottom: 20px;
@@ -98,11 +102,11 @@ footer>span {
         display: block;
     }
 
-    header{
+    header {
         display: none;
     }
 
-    aside{
+    aside {
         position: fixed;
         right: 0;
         bottom: 0;
