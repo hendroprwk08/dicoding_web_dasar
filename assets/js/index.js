@@ -43,15 +43,3 @@ for (let i = 0; i < classSnack.length; i++) {
     selectCategory('snack');
   };
 }
-
-// document.getElementsByClassName('a_main').onclick = () => {
-//     console.log('main');
-    
-//     // selectCategory();
-// }
-
-// document.getElementsByClassName('a_snack').onclick = () => {
-//     console.log('snack');
-    
-//     // selectCategory('snack');
-// }
